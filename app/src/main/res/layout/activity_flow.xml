@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.luuuzi.demo003.widget.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="苹果7手机壳"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="道德经"
+            android:textColor="#f00"
+            android:textSize="16sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="美甲套装初学者家用"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="阿玛尼"
+            android:textColor="#f00"
+            android:textSize="25sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="破壁机加热全自动"
+            android:textColor="#f00"
+            android:textSize="18sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="华为mate30"
+            android:textColor="#f00"
+            android:textSize="12sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="全自动洗衣机"
+            android:textColor="#f00"
+            android:textSize="10sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="i5-9400f"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="巨坑"
+            android:textColor="#f00"
+            android:textSize="13sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="安卓插件化"
+            android:textColor="#f00"
+            android:textSize="17sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="小米10"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+    </com.luuuzi.demo003.widget.FlowLayout>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="搜索历史"
+        android:gravity="center_vertical"/>
+    <com.luuuzi.demo003.widget.FlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff">
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="iphone XS"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="老子"
+            android:textColor="#f00"
+            android:textSize="16sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="美甲套装初学者家用"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="雅诗兰黛"
+            android:textColor="#f00"
+            android:textSize="25sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="九阳豆浆"
+            android:textColor="#f00"
+            android:textSize="18sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="华为mate30"
+            android:textColor="#f00"
+            android:textSize="12sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="全自动洗衣机"
+            android:textColor="#f00"
+            android:textSize="10sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="i5-9400f"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="巨坑"
+            android:textColor="#f00"
+            android:textSize="13sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="戴尔电脑"
+            android:textColor="#f00"
+            android:textSize="17sp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shape_key"
+            android:padding="10dp"
+            android:text="小米10pro"
+            android:textColor="#f00"
+            android:textSize="15sp" />
+    </com.luuuzi.demo003.widget.FlowLayout>
+</LinearLayout>
